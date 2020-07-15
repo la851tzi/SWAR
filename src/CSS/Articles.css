@@ -1,0 +1,15 @@
+.Articles_header {
+    font-family: "Century Gothic";
+    color: cornflowerblue;
+    font-size: 30px;
+}
+
+.ArticleName {
+    margin-top: 100px;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
+
+.Article {
+    margin-right: 120px;
+}

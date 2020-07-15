@@ -1,0 +1,59 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  background-color: cornflowerblue;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: left;
+  height: 60px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.Company {
+  color: white;
+  font-size: 40px;
+  font-family: "Century Gothic";
+  margin-left: 50px;
+}
+
+.CompanyName {
+  margin-top: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+.Customers {
+  font-family: "Century Gothic";
+  color: white;
+  margin-left: 550px;
+}
+
+.Articles {
+  font-family: "Century Gothic";
+  color: white;
+  margin-left: 50px;
+}
+
+.Register {
+  font-family: "Century Gothic";
+  color: white;
+  margin-left: 50px;
+}
+
+.Login {
+  font-family: "Century Gothic";
+  color: white;
+  margin-left: 50px;
+}
+
+.main {
+  margin-left: 100px;
+  margin-top: 100px;
+}
